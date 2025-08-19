@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Internal programs and procedures in Telia**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Anything.**
 
